@@ -2,5 +2,5 @@ version="1"
 tags={
 	"Gameplay"
 }
-name="BC Server"
+name="vu"
 supported_version="1.35.*"
